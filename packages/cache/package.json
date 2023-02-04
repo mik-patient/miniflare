@@ -37,7 +37,7 @@
   "dependencies": {
     "@miniflare/core": "2.9.0",
     "@miniflare/shared": "2.9.0",
-    "http-cache-semantics": "^4.1.0",
+    "http-cache-semantics": "^4.1.1",
     "undici": "5.9.1"
   },
   "devDependencies": {
